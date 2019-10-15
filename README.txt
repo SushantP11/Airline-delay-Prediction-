@@ -1,14 +1,16 @@
 This is a project obtained from Buerue of Transportation Statistics USA.  ( CLASSIFICATION PROBLEM )
+DATA UPLOADED IS FOR YEAR 2014,2015,2016 FOR FLIGHTS ARRIVING IN LAX (LOS ANGELES INTL AIRPORT) 
 
+FOR CUSTOM DATA FOLLOW THE LINK BELOW. 
 DATASET LINK :-    https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236&DB_Short_Name=On-Time
 
 
-                                                                                                 AIM OF THE RESEARCH
+                              AIM OF THE RESEARCH
 
 The main motto of this project is to achieve a reliable delay prediction model which can predict flight delay and help in reducing the losses which are the effecting the flight operations. Also, try to study factors which might not be significant in previous researches and compare them with modern day problems. 
 
 
-                                                                                                         OBJECTIVES 
+                                OBJECTIVES 
 
 1. To study the data which is available and is an open-source version.
 2. To understand what are the necessary attributes which are significant.
